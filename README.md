@@ -483,3 +483,6 @@ Your website is **production-ready**. All features are working, database is conn
 
 Global.css changed
 
+video updated 
+
+
