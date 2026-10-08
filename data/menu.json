@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "chicken-dum-biryani-lucknowi-drumstick",
+    "name": "Chicken Dum Biryani",
+    "category": "biryani",
+    "group": "Chicken Dum Biryani",
+    "prices": {
+      "half": 140,
+      "full": 240,
+      "perKg": 1200
+    },
+    "region": "lucknowi",
+    "cut": "Drumstick",
+    "veg": false,
+    "protein": "chicken",
+    "portion": {
+      "half": "350–375 g · 450 ml container · 1 drumstick",
+      "full": "550–575 g · 750 ml container · 2 drumsticks",
+      "perKg": "10 drumsticks · about 2.8–3.0 kg cooked · serves about 5–7"
+    },
+    "image": "/images/dishes/chicken-lucknowi-biryani.webp"
+  },
+  {
+    "id": "chicken-dum-biryani-hyderabadi-drumstick",
+    "name": "Chicken Dum Biryani",
+    "category": "biryani",
+    "group": "Chicken Dum Biryani",
+    "prices": {
+      "half": 150,
+      "full": 240,
+      "perKg": 1200
+    },
+    "region": "hyderabadi",
+    "cut": "Drumstick",
+    "veg": false,
+    "protein": "chicken",
+    "portion": {
+      "half": "350–375 g · 450 ml container · 1 drumstick",
+      "full": "550–575 g · 750 ml container · 2 drumsticks",
+      "perKg": "10 drumsticks · about 2.8–3.0 kg cooked · serves about 5–7"
+    },
+    "image": "/images/dishes/chicken-hyderabadi-biryani.webp"
+  },
+  {
+    "id": "chicken-dum-biryani-kolkata-drumstick",
+    "name": "Chicken Dum Biryani",
+    "category": "biryani",
+    "group": "Chicken Dum Biryani",
+    "prices": {
+      "half": 180,
+      "full": 320,
+      "perKg": 1600
+    },
+    "region": "kolkata",
+    "cut": "Drumstick",
+    "veg": false,
+    "protein": "chicken",
+    "note": "Desi ghee preparation with boiled egg and aloo",
+    "portion": {
+      "half": "350–375 g · 450 ml container · 1 drumstick",
+      "full": "550–575 g · 750 ml container · 2 drumsticks",
+      "perKg": "10 drumsticks · about 2.8–3.0 kg cooked · serves about 5–7"
+    },
+    "image": "/images/dishes/kolkata-biryani.webp"
+  },
+  {
+    "id": "chicken-dum-biryani-mumbai-curry-cut",
+    "name": "Chicken Dum Biryani",
+    "category": "biryani",
+    "group": "Chicken Dum Biryani",
+    "prices": {
+      "full": 200,
+      "perKg": 1000
+    },
+    "region": "mumbai",
+    "cut": "Curry Cut",
+    "veg": false,
+    "protein": "chicken",
+    "portion": {
+      "perKg": "18–20 pieces · no neck, no rib cage"
+    },
+    "image": "/images/dishes/mumbai-biryani.webp"
+  },
+  {
+    "id": "chicken-malai-seekh-biryani",
+    "name": "Chicken Malai Seekh Biryani",
+    "category": "biryani",
+    "group": "Chicken Dum Biryani",
+    "prices": {
+      "half": 160,
+      "full": 260,
+      "perKg": 1300
+    },
+    "veg": false,
+    "protein": "chicken"
+  },
+  {
+    "id": "chicken-tawa-pulao-boneless-lucknowi",
+    "name": "Chicken Tawa Pulao (Boneless)",
+    "category": "tawa",
+    "group": "Chicken Tawa Pulao",
+    "prices": {
+      "half": 135,
+      "full": 225
+    },
+    "region": "lucknowi",
+    "cut": "Boneless",
+    "veg": false,
+    "protein": "chicken"
+  },
+  {
+    "id": "chicken-tawa-pulao-boneless-hyderabadi",
+    "name": "Chicken Tawa Pulao (Boneless)",
+    "category": "tawa",
+    "group": "Chicken Tawa Pulao",
+    "prices": {
+      "half": 135,
+      "full": 225
+    },
+    "region": "hyderabadi",
+    "cut": "Boneless",
+    "veg": false,
+    "protein": "chicken"
+  },
+  {
+    "id": "chicken-tawa-pulao-boneless-mumbai",
+    "name": "Chicken Tawa Pulao (Boneless)",
+    "category": "tawa",
+    "group": "Chicken Tawa Pulao",
+    "prices": {
+      "half": 135,
+      "full": 225
+    },
+    "region": "mumbai",
+    "cut": "Boneless",
+    "veg": false,
+    "protein": "chicken"
+  },
+  {
+    "id": "mutton-yakhni-pulao-lucknowi",
+    "name": "Mutton Yakhni Pulao",
+    "category": "pulao",
+    "group": "Mutton Pulao",
+    "prices": {
+      "half": 190,
+      "full": 340,
+      "perKg": 1700
+    },
+    "region": "lucknowi",
+    "veg": false,
+    "protein": "mutton",
+    "image": "/images/dishes/mutton-yakhni-pulao.webp"
+  },
+  {
+    "id": "mutton-awadhi-pulao-lucknowi",
+    "name": "Mutton Awadhi Pulao",
+    "category": "pulao",
+    "group": "Mutton Pulao",
+    "prices": {
+      "half": 220,
+      "full": 380,
+      "perKg": 1900
+    },
+    "region": "lucknowi",
+    "veg": false,
+    "protein": "mutton",
+    "note": "Desi ghee preparation",
+    "image": "/images/dishes/mutton-awadhi-pulao.webp"
+  },
+  {
+    "id": "prawns-biryani",
+    "name": "Prawns Biryani",
+    "category": "biryani",
+    "group": "Prawns Biryani",
+    "prices": {
+      "half": 225,
+      "full": 375,
+      "perKg": 1875
+    },
+    "veg": false,
+    "protein": "prawns"
+  },
+  {
+    "id": "egg-biryani-hyderabadi",
+    "name": "Egg Biryani",
+    "category": "biryani",
+    "group": "Egg Biryani",
+    "prices": {
+      "half": 110,
+      "full": 180,
+      "perKg": 900
+    },
+    "region": "hyderabadi",
+    "veg": false,
+    "protein": "egg"
+  },
+  {
+    "id": "anda-rice",
+    "name": "Anda Rice",
+    "category": "tawa",
+    "group": "Egg Tawa Pulao",
+    "prices": {
+      "half": 100,
+      "full": 150
+    },
+    "veg": false,
+    "protein": "egg"
+  },
+  {
+    "id": "anda-rice-with-amul-butter-asli-wala",
+    "name": "Anda Rice with Amul Butter (Asli Wala)",
+    "category": "tawa",
+    "group": "Egg Tawa Pulao",
+    "prices": {
+      "half": 125,
+      "full": 200
+    },
+    "veg": false,
+    "protein": "egg"
+  },
+  {
+    "id": "anda-ghotala-rice",
+    "name": "Anda Ghotala Rice",
+    "category": "tawa",
+    "group": "Egg Tawa Pulao",
+    "prices": {
+      "half": 125,
+      "full": 200
+    },
+    "veg": false,
+    "protein": "egg"
+  },
+  {
+    "id": "anda-ghotala-rice-with-amul-butter-asli-wala",
+    "name": "Anda Ghotala Rice with Amul Butter (Asli Wala)",
+    "category": "tawa",
+    "group": "Egg Tawa Pulao",
+    "prices": {
+      "half": 150,
+      "full": 240
+    },
+    "veg": false,
+    "protein": "egg"
+  },
+  {
+    "id": "shami-kebab-chicken",
+    "name": "Shami Kebab (Chicken)",
+    "category": "kebabs",
+    "group": "Chicken",
+    "prices": {
+      "half": 135,
+      "full": 270
+    },
+    "veg": false,
+    "protein": "chicken",
+    "note": "Half 3 pc · Full 6 pc",
+    "image": "/images/dishes/chicken-shami-kebab.webp"
+  },
+  {
+    "id": "seekh-kebab-chicken",
+    "name": "Seekh Kebab (Chicken)",
+    "category": "kebabs",
+    "group": "Chicken",
+    "prices": {
+      "half": 120,
+      "full": 240
+    },
+    "veg": false,
+    "protein": "chicken",
+    "note": "Half 3 pc · Full 6 pc",
+    "image": "/images/dishes/chicken-seekh-kebab.webp"
+  },
+  {
+    "id": "zesty-tawa-blast-boneless",
+    "name": "Zesty Tawa Blast (Boneless)",
+    "category": "kebabs",
+    "group": "Chicken",
+    "prices": {
+      "price": 260
+    },
+    "cut": "Boneless",
+    "veg": false,
+    "protein": "chicken"
+  },
+  {
+    "id": "chicken-black-pepper-malai-boneless",
+    "name": "Chicken Black Pepper Malai (Boneless)",
+    "category": "kebabs",
+    "group": "Chicken",
+    "prices": {
+      "price": 260
+    },
+    "cut": "Boneless",
+    "veg": false,
+    "protein": "chicken"
+  },
+  {
+    "id": "chicken-green-chilli-boneless",
+    "name": "Chicken Green Chilli (Boneless)",
+    "category": "kebabs",
+    "group": "Chicken",
+    "prices": {
+      "price": 260
+    },
+    "cut": "Boneless",
+    "veg": false,
+    "protein": "chicken"
+  },
+  {
+    "id": "chicken-boti-masala-boneless",
+    "name": "Chicken Boti Masala (Boneless)",
+    "category": "kebabs",
+    "group": "Chicken",
+    "prices": {
+      "price": 260
+    },
+    "cut": "Boneless",
+    "veg": false,
+    "protein": "chicken"
+  },
+  {
+    "id": "chicken-lollipop",
+    "name": "Chicken Lollipop",
+    "category": "kebabs",
+    "group": "Chicken",
+    "prices": {
+      "price": 250
+    },
+    "veg": false,
+    "protein": "chicken"
+  },
+  {
+    "id": "shami-kebab-mutton",
+    "name": "Shami Kebab (Mutton)",
+    "category": "kebabs",
+    "group": "Mutton",
+    "prices": {
+      "half": 195,
+      "full": 390
+    },
+    "veg": false,
+    "protein": "mutton"
+  },
+  {
+    "id": "chicken-roll",
+    "name": "Chicken Roll",
+    "category": "rolls",
+    "group": "Chicken",
+    "prices": {
+      "price": 125
+    },
+    "veg": false,
+    "protein": "chicken"
+  },
+  {
+    "id": "chicken-cheese-roll",
+    "name": "Chicken Cheese Roll",
+    "category": "rolls",
+    "group": "Chicken",
+    "prices": {
+      "price": 150
+    },
+    "veg": false,
+    "protein": "chicken"
+  },
+  {
+    "id": "chicken-egg-roll",
+    "name": "Chicken Egg Roll",
+    "category": "rolls",
+    "group": "Chicken",
+    "prices": {
+      "price": 150
+    },
+    "veg": false,
+    "protein": "egg"
+  },
+  {
+    "id": "chicken-egg-cheese-roll",
+    "name": "Chicken Egg Cheese Roll",
+    "category": "rolls",
+    "group": "Chicken",
+    "prices": {
+      "price": 175
+    },
+    "veg": false,
+    "protein": "egg"
+  },
+  {
+    "id": "egg-roll",
+    "name": "Egg Roll",
+    "category": "rolls",
+    "group": "Egg",
+    "prices": {
+      "price": 85
+    },
+    "veg": false,
+    "protein": "egg"
+  },
+  {
+    "id": "egg-cheese-roll",
+    "name": "Egg Cheese Roll",
+    "category": "rolls",
+    "group": "Egg",
+    "prices": {
+      "price": 110
+    },
+    "veg": false,
+    "protein": "egg"
+  },
+  {
+    "id": "chicken-lucknowi-combo-small",
+    "name": "Chicken Lucknowi Combo (Small)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 250
+    },
+    "veg": false,
+    "protein": "chicken",
+    "includes": [
+      "Chicken Dum Biryani-Lucknowi (Drum Stick) (small)",
+      "Chicken Shami Kebab (2Nos.)",
+      "1 Gulab Jamun",
+      "1 Jeera Drink (Small)"
+    ],
+    "serves": "1"
+  },
+  {
+    "id": "chicken-hyderabadi-combo-small",
+    "name": "Chicken Hyderabadi Combo (Small)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 250
+    },
+    "veg": false,
+    "protein": "chicken",
+    "includes": [
+      "Chicken Dum Biryani-Hyderabadi (Drum Stick) (small)",
+      "Chicken Shami Kebab (2Nos.)",
+      "1 Gulab Jamun",
+      "1 Jeera Drink (Small)"
+    ],
+    "serves": "1"
+  },
+  {
+    "id": "chicken-kolkata-combo-small",
+    "name": "Chicken Kolkata Combo (Small)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 300
+    },
+    "veg": false,
+    "protein": "chicken",
+    "includes": [
+      "Chicken Dum Biryani-Kolkata (Drum Stick) (small)",
+      "Chicken Shami Kebab (2Nos.)",
+      "1 Gulab Jamun",
+      "1 Jeera Drink (Small)"
+    ],
+    "serves": "1"
+  },
+  {
+    "id": "chicken-lucknowi-combo-large",
+    "name": "Chicken Lucknowi Combo (Large)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 360
+    },
+    "veg": false,
+    "protein": "chicken",
+    "includes": [
+      "Chicken Dum Biryani-Lucknowi (Drum Stick) (Large)",
+      "Chicken Shami Kebab (2Nos.)",
+      "1 Gulab Jamun",
+      "400 ml Soft Drink"
+    ],
+    "serves": "1 to 2"
+  },
+  {
+    "id": "chicken-hyderabadi-combo-large",
+    "name": "Chicken Hyderabadi Combo (Large)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 360
+    },
+    "veg": false,
+    "protein": "chicken",
+    "includes": [
+      "Chicken Dum Biryani-Hyderabadi (Drum Stick) (Large)",
+      "Chicken Shami Kebab (2Nos.)",
+      "1 Gulab Jamun",
+      "400 ml Soft Drink"
+    ],
+    "serves": "1 to 2"
+  },
+  {
+    "id": "chicken-mumbai-combo-large",
+    "name": "Chicken Mumbai Combo (Large)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 320
+    },
+    "veg": false,
+    "protein": "chicken",
+    "includes": [
+      "Chicken Dum Biryani-Mumbai (Curry Cut) (Large)",
+      "Chicken Shami Kebab (2Nos.)",
+      "2 Gulab Jamun",
+      "400 ml Soft Drink"
+    ],
+    "serves": "1 to 2"
+  },
+  {
+    "id": "chicken-kolkata-combo-large",
+    "name": "Chicken Kolkata Combo (Large)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 450
+    },
+    "veg": false,
+    "protein": "chicken",
+    "includes": [
+      "Chicken Dum Biryani-Kolkata (Drum Stick) (Large)",
+      "Chicken Shami Kebab (2Nos.)",
+      "2 Gulab Jamun",
+      "400 ml Soft Drink"
+    ],
+    "serves": "1 to 2"
+  },
+  {
+    "id": "chicken-lucknowi-hyderabadi-combo-small",
+    "name": "Chicken Lucknowi + Hyderabadi Combo (Small)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 485
+    },
+    "veg": false,
+    "protein": "chicken",
+    "includes": [
+      "Chicken Dum Biryani-Lucknowi (Drum Stick) (small)",
+      "Chicken Dum Biryani-Hyderabadi (Drum Stick) (small)",
+      "Chicken Shami Kebab (3Nos.)",
+      "3 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "2 to 3"
+  },
+  {
+    "id": "chicken-lucknowi-kolkata-combo-small",
+    "name": "Chicken Lucknowi + Kolkata Combo (Small)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 535
+    },
+    "veg": false,
+    "protein": "chicken",
+    "includes": [
+      "Chicken Dum Biryani-Lucknowi (Drum Stick) (small)",
+      "Chicken Dum Biryani-Kolkata (Drum Stick) (small)",
+      "Chicken Shami Kebab (3Nos.)",
+      "3 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "2 to 3"
+  },
+  {
+    "id": "chicken-hyderabadi-kolkata-combo-small",
+    "name": "Chicken Hyderabadi + Kolkata Combo (Small)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 535
+    },
+    "veg": false,
+    "protein": "chicken",
+    "includes": [
+      "Chicken Dum Biryani-Hyderabadi (Drum Stick) (small)",
+      "Chicken Dum Biryani-Kolkata (Drum Stick) (small)",
+      "Chicken Shami Kebab (3Nos.)",
+      "3 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "2 to 3"
+  },
+  {
+    "id": "chicken-lucknowi-hyderabadi-combo-large",
+    "name": "Chicken Lucknowi + Hyderabadi Combo (Large)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 740
+    },
+    "veg": false,
+    "protein": "chicken",
+    "includes": [
+      "Chicken Dum Biryani-Lucknowi (Drum Stick) (Large)",
+      "Chicken Dum Biryani-Hyderabadi (Drum Stick) (Large)",
+      "Chicken Shami Kebab (4Nos.)",
+      "4 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "3 to 4"
+  },
+  {
+    "id": "chicken-lucknowi-mumbai-twist-combo-large",
+    "name": "Chicken Lucknowi + Mumbai Twist Combo (Large)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 700
+    },
+    "veg": false,
+    "protein": "chicken",
+    "includes": [
+      "Chicken Dum Biryani-Lucknowi (Drum Stick) (Large)",
+      "Chicken Dum Biryani-Mumbai Twist (Curry Cut) (Large)",
+      "Chicken Shami Kebab (4Nos.)",
+      "4 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "3 to 4"
+  },
+  {
+    "id": "chicken-lucknowi-kolkata-combo-large",
+    "name": "Chicken Lucknowi + Kolkata Combo (Large)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 820
+    },
+    "veg": false,
+    "protein": "chicken",
+    "includes": [
+      "Chicken Dum Biryani-Lucknowi (Drum Stick) (Large)",
+      "Chicken Dum Biryani-Kolkata (Drum Stick) (Large)",
+      "Chicken Shami Kebab (4Nos.)",
+      "4 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "3 to 4"
+  },
+  {
+    "id": "chicken-hyderabadi-mumbai-twist-combo-large",
+    "name": "Chicken Hyderabadi + Mumbai Twist Combo (Large)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 700
+    },
+    "veg": false,
+    "protein": "chicken",
+    "includes": [
+      "Chicken Dum Biryani-Hyderabadi (Drum Stick) (Large)",
+      "Chicken Dum Biryani-Mumbai Twist (Curry Cut) (Large)",
+      "Chicken Shami Kebab (4Nos.)",
+      "4 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "3 to 4"
+  },
+  {
+    "id": "chicken-hyderabadi-kolkata-combo-large",
+    "name": "Chicken Hyderabadi + Kolkata Combo (Large)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 820
+    },
+    "veg": false,
+    "protein": "chicken",
+    "includes": [
+      "Chicken Dum Biryani-Hyderabadi (Drum Stick) (Large)",
+      "Chicken Dum Biryani-Kolkata (Drum Stick) (Large)",
+      "Chicken Shami Kebab (4Nos.)",
+      "4 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "3 to 4"
+  },
+  {
+    "id": "chicken-kolkata-mumbai-twist-combo-large",
+    "name": "Chicken Kolkata + Mumbai Twist Combo (Large)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 780
+    },
+    "veg": false,
+    "protein": "chicken",
+    "includes": [
+      "Chicken Dum Biryani-Kolkata (Drum Stick) (Large)",
+      "Chicken Dum Biryani-Mumbai Twist (Curry Cut) (Large)",
+      "Chicken Shami Kebab (4Nos.)",
+      "4 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "3 to 4"
+  },
+  {
+    "id": "mutton-yakhni-combo-small",
+    "name": "Mutton Yakhni Combo (Small)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 350
+    },
+    "veg": false,
+    "protein": "mutton",
+    "includes": [
+      "Mutton Dum Biryani-Yakhni (small)",
+      "Mutton Shami Kebab (2Nos.)",
+      "2 Gulab Jamun",
+      "1 Jeera Drink (Small)"
+    ],
+    "serves": "1"
+  },
+  {
+    "id": "mutton-awadhi-combo-small",
+    "name": "Mutton Awadhi Combo (Small)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 380
+    },
+    "veg": false,
+    "protein": "mutton",
+    "includes": [
+      "Mutton Dum Biryani-Awadhi (small)",
+      "Mutton Shami Kebab (2Nos.)",
+      "2 Gulab Jamun",
+      "1 Jeera Drink (Small)"
+    ],
+    "serves": "1"
+  },
+  {
+    "id": "mutton-yakhni-combo-large",
+    "name": "Mutton Yakhni Combo (Large)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 500
+    },
+    "veg": false,
+    "protein": "mutton",
+    "includes": [
+      "Mutton Dum Biryani-Yakhni (Large)",
+      "Mutton Shami Kebab (2Nos.)",
+      "2 Gulab Jamun",
+      "1 Jeera Drink (Small)"
+    ],
+    "serves": "1 to 2"
+  },
+  {
+    "id": "mutton-awadhi-combo-large",
+    "name": "Mutton Awadhi Combo (Large)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 540
+    },
+    "veg": false,
+    "protein": "mutton",
+    "includes": [
+      "Mutton Dum Biryani-Awadhi (Large)",
+      "Mutton Shami Kebab (2Nos.)",
+      "2 Gulab Jamun",
+      "1 Jeera Drink (Small)"
+    ],
+    "serves": "1 to 2"
+  },
+  {
+    "id": "mutton-yakhni-awadhi-combo-small",
+    "name": "Mutton Yakhni + Awadhi Combo (Small)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 675
+    },
+    "veg": false,
+    "protein": "mutton",
+    "includes": [
+      "Mutton Dum Biryani-Yakhni (small)",
+      "Mutton Dum Biryani-Awadhi (small)",
+      "Mutton Shami Kebab (3 Nos.)",
+      "3 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "2 to 3"
+  },
+  {
+    "id": "mutton-yakhni-awadhi-combo-large",
+    "name": "Mutton Yakhni + Awadhi Combo (Large)",
+    "category": "combos",
+    "group": "Non-veg",
+    "prices": {
+      "price": 1040
+    },
+    "veg": false,
+    "protein": "mutton",
+    "includes": [
+      "Mutton Dum Biryani-Yakhni (Large)",
+      "Mutton Dum Biryani-Awadhi (Large)",
+      "Mutton Shami Kebab (4 Nos.)",
+      "4 Gulab Jamun",
+      "1 Soft Drink 400 ml"
+    ],
+    "serves": "3 to 4"
+  },
+  {
+    "id": "chicken-dum-biryani-mumbai-drumstick",
+    "name": "Chicken Dum Biryani",
+    "category": "biryani",
+    "group": "Chicken Dum Biryani",
+    "prices": {
+      "perKg": 1200
+    },
+    "region": "mumbai",
+    "cut": "Drumstick",
+    "veg": false,
+    "protein": "chicken",
+    "portion": {
+      "half": "350–375 g · 450 ml container · 1 drumstick",
+      "full": "550–575 g · 750 ml container · 2 drumsticks",
+      "perKg": "10 drumsticks · about 2.8–3.0 kg cooked · serves about 5–7"
+    }
+  },
+  {
+    "id": "chicken-dum-biryani-lucknowi-curry-cut",
+    "name": "Chicken Dum Biryani",
+    "category": "biryani",
+    "group": "Chicken Dum Biryani",
+    "prices": {
+      "perKg": 1000
+    },
+    "region": "lucknowi",
+    "cut": "Curry Cut",
+    "veg": false,
+    "protein": "chicken",
+    "portion": {
+      "perKg": "18–20 pieces · no neck, no rib cage"
+    }
+  },
+  {
+    "id": "chicken-dum-biryani-hyderabadi-curry-cut",
+    "name": "Chicken Dum Biryani",
+    "category": "biryani",
+    "group": "Chicken Dum Biryani",
+    "prices": {
+      "perKg": 1000
+    },
+    "region": "hyderabadi",
+    "cut": "Curry Cut",
+    "veg": false,
+    "protein": "chicken",
+    "portion": {
+      "perKg": "18–20 pieces · no neck, no rib cage"
+    }
+  },
+  {
+    "id": "chicken-dum-biryani-kolkata-curry-cut",
+    "name": "Chicken Dum Biryani",
+    "category": "biryani",
+    "group": "Chicken Dum Biryani",
+    "prices": {
+      "perKg": 1400
+    },
+    "region": "kolkata",
+    "cut": "Curry Cut",
+    "veg": false,
+    "protein": "chicken",
+    "note": "Desi ghee preparation with egg and aloo",
+    "portion": {
+      "perKg": "18–20 pieces · no neck, no rib cage"
+    }
+  },
+  {
+    "id": "chicken-dum-biryani-lucknowi-boneless",
+    "name": "Chicken Dum Biryani",
+    "category": "biryani",
+    "group": "Chicken Dum Biryani",
+    "prices": {
+      "perKg": 1400
+    },
+    "region": "lucknowi",
+    "cut": "Boneless",
+    "veg": false,
+    "protein": "chicken"
+  },
+  {
+    "id": "chicken-dum-biryani-hyderabadi-boneless",
+    "name": "Chicken Dum Biryani",
+    "category": "biryani",
+    "group": "Chicken Dum Biryani",
+    "prices": {
+      "perKg": 1400
+    },
+    "region": "hyderabadi",
+    "cut": "Boneless",
+    "veg": false,
+    "protein": "chicken"
+  },
+  {
+    "id": "chicken-dum-biryani-mumbai-boneless",
+    "name": "Chicken Dum Biryani",
+    "category": "biryani",
+    "group": "Chicken Dum Biryani",
+    "prices": {
+      "perKg": 1400
+    },
+    "region": "mumbai",
+    "cut": "Boneless",
+    "veg": false,
+    "protein": "chicken"
+  },
+  {
+    "id": "chicken-dum-biryani-kolkata-boneless",
+    "name": "Chicken Dum Biryani",
+    "category": "biryani",
+    "group": "Chicken Dum Biryani",
+    "prices": {
+      "perKg": 1800
+    },
+    "region": "kolkata",
+    "cut": "Boneless",
+    "veg": false,
+    "protein": "chicken",
+    "note": "Desi ghee preparation with egg and aloo"
+  },
+  {
+    "id": "mutton-dum-biryani-hyderabadi",
+    "name": "Mutton Dum Biryani",
+    "category": "biryani",
+    "group": "Mutton Dum Biryani / Pulao",
+    "prices": {
+      "perKg": 1700
+    },
+    "region": "hyderabadi",
+    "veg": false,
+    "protein": "mutton"
+  },
+  {
+    "id": "mutton-dum-biryani-mumbai",
+    "name": "Mutton Dum Biryani",
+    "category": "biryani",
+    "group": "Mutton Dum Biryani / Pulao",
+    "prices": {
+      "perKg": 1700
+    },
+    "region": "mumbai",
+    "veg": false,
+    "protein": "mutton"
+  },
+  {
+    "id": "mutton-dum-biryani-kolkata",
+    "name": "Mutton Dum Biryani",
+    "category": "biryani",
+    "group": "Mutton Dum Biryani / Pulao",
+    "prices": {
+      "perKg": 2100
+    },
+    "region": "kolkata",
+    "veg": false,
+    "protein": "mutton",
+    "note": "Desi ghee preparation with egg and aloo"
+  },
+  {
+    "id": "double-mutton-dum-biryani-hyderabadi",
+    "name": "Double Mutton Dum Biryani",
+    "category": "biryani",
+    "group": "Mutton Dum Biryani / Pulao",
+    "prices": {
+      "perKg": 2300
+    },
+    "region": "hyderabadi",
+    "veg": false,
+    "protein": "mutton"
+  },
+  {
+    "id": "double-mutton-dum-biryani-mumbai",
+    "name": "Double Mutton Dum Biryani",
+    "category": "biryani",
+    "group": "Mutton Dum Biryani / Pulao",
+    "prices": {
+      "perKg": 2300
+    },
+    "region": "mumbai",
+    "veg": false,
+    "protein": "mutton"
+  },
+  {
+    "id": "double-mutton-dum-biryani-kolkata",
+    "name": "Double Mutton Dum Biryani",
+    "category": "biryani",
+    "group": "Mutton Dum Biryani / Pulao",
+    "prices": {
+      "perKg": 2700
+    },
+    "region": "kolkata",
+    "veg": false,
+    "protein": "mutton",
+    "note": "Desi ghee preparation"
+  },
+  {
+    "id": "double-mutton-yakhni-pulao-lucknowi",
+    "name": "Double Mutton Yakhni Pulao",
+    "category": "pulao",
+    "group": "Mutton Dum Biryani / Pulao",
+    "prices": {
+      "perKg": 2300
+    },
+    "region": "lucknowi",
+    "veg": false,
+    "protein": "mutton"
+  },
+  {
+    "id": "double-mutton-awadhi-pulao-lucknowi",
+    "name": "Double Mutton Awadhi Pulao",
+    "category": "pulao",
+    "group": "Mutton Dum Biryani / Pulao",
+    "prices": {
+      "perKg": 2700
+    },
+    "region": "lucknowi",
+    "veg": false,
+    "protein": "mutton",
+    "note": "Desi ghee preparation"
+  },
+  {
+    "id": "egg-biryani-mumbai",
+    "name": "Egg Biryani",
+    "category": "biryani",
+    "group": "Egg Biryani",
+    "prices": {
+      "perKg": 900
+    },
+    "region": "mumbai",
+    "veg": false,
+    "protein": "egg"
+  },
+  {
+    "id": "veg-dum-biryani-lucknowi",
+    "name": "Veg Dum Biryani",
+    "category": "biryani",
+    "group": "Vegetables",
+    "prices": {
+      "half": 130,
+      "full": 210,
+      "perKg": 1050
+    },
+    "region": "lucknowi",
+    "veg": true,
+    "protein": "veg",
+    "image": "/images/dishes/veg-lucknowi-biryani.webp"
+  },
+  {
+    "id": "veg-dum-biryani-hyderabadi",
+    "name": "Veg Dum Biryani",
+    "category": "biryani",
+    "group": "Vegetables",
+    "prices": {
+      "half": 130,
+      "full": 210,
+      "perKg": 1050
+    },
+    "region": "hyderabadi",
+    "veg": true,
+    "protein": "veg",
+    "image": "/images/dishes/veg-hyderabadi-biryani.webp"
+  },
+  {
+    "id": "paneer-dum-biryani-lucknowi",
+    "name": "Paneer Dum Biryani",
+    "category": "biryani",
+    "group": "Paneer",
+    "prices": {
+      "half": 150,
+      "full": 245,
+      "perKg": 1225
+    },
+    "region": "lucknowi",
+    "veg": true,
+    "protein": "paneer"
+  },
+  {
+    "id": "paneer-dum-biryani-hyderabadi",
+    "name": "Paneer Dum Biryani",
+    "category": "biryani",
+    "group": "Paneer",
+    "prices": {
+      "half": 150,
+      "full": 245,
+      "perKg": 1225
+    },
+    "region": "hyderabadi",
+    "veg": true,
+    "protein": "paneer"
+  },
+  {
+    "id": "soya-dum-biryani",
+    "name": "Soya Dum Biryani",
+    "category": "biryani",
+    "group": "Soya",
+    "prices": {
+      "half": 110,
+      "full": 170,
+      "perKg": 850
+    },
+    "veg": true,
+    "protein": "soya",
+    "image": "/images/dishes/soya-chunks-biryani.webp"
+  },
+  {
+    "id": "veg-tawa-pulao-lucknowi",
+    "name": "Veg Tawa Pulao",
+    "category": "tawa",
+    "group": "Veg Tawa Rice",
+    "prices": {
+      "half": 130,
+      "full": 210
+    },
+    "region": "lucknowi",
+    "veg": true,
+    "protein": "veg"
+  },
+  {
+    "id": "veg-tawa-pulao-hyderabadi",
+    "name": "Veg Tawa Pulao",
+    "category": "tawa",
+    "group": "Veg Tawa Rice",
+    "prices": {
+      "half": 130,
+      "full": 210
+    },
+    "region": "hyderabadi",
+    "veg": true,
+    "protein": "veg"
+  },
+  {
+    "id": "veg-tawa-pulao-mumbai",
+    "name": "Veg Tawa Pulao",
+    "category": "tawa",
+    "group": "Veg Tawa Rice",
+    "prices": {
+      "half": 130,
+      "full": 210
+    },
+    "region": "mumbai",
+    "veg": true,
+    "protein": "veg"
+  },
+  {
+    "id": "paneer-tawa-pulao-lucknowi",
+    "name": "Paneer Tawa Pulao",
+    "category": "tawa",
+    "group": "Veg Tawa Rice",
+    "prices": {
+      "half": 150,
+      "full": 245
+    },
+    "region": "lucknowi",
+    "veg": true,
+    "protein": "paneer"
+  },
+  {
+    "id": "paneer-tawa-pulao-hyderabadi",
+    "name": "Paneer Tawa Pulao",
+    "category": "tawa",
+    "group": "Veg Tawa Rice",
+    "prices": {
+      "half": 150,
+      "full": 245
+    },
+    "region": "hyderabadi",
+    "veg": true,
+    "protein": "paneer"
+  },
+  {
+    "id": "paneer-tawa-pulao-mumbai",
+    "name": "Paneer Tawa Pulao",
+    "category": "tawa",
+    "group": "Veg Tawa Rice",
+    "prices": {
+      "half": 150,
+      "full": 245
+    },
+    "region": "mumbai",
+    "veg": true,
+    "protein": "paneer"
+  },
+  {
+    "id": "veg-roll",
+    "name": "Veg Roll",
+    "category": "rolls",
+    "group": "Veg Roll",
+    "prices": {
+      "price": 45
+    },
+    "veg": true,
+    "protein": "veg"
+  },
+  {
+    "id": "veg-cheese-roll",
+    "name": "Veg Cheese Roll",
+    "category": "rolls",
+    "group": "Veg Roll",
+    "prices": {
+      "price": 75
+    },
+    "veg": true,
+    "protein": "veg"
+  },
+  {
+    "id": "paneer-roll",
+    "name": "Paneer Roll",
+    "category": "rolls",
+    "group": "Paneer Roll",
+    "prices": {
+      "price": 80
+    },
+    "veg": true,
+    "protein": "paneer"
+  },
+  {
+    "id": "paneer-cheese-roll",
+    "name": "Paneer Cheese Roll",
+    "category": "rolls",
+    "group": "Paneer Roll",
+    "prices": {
+      "price": 110
+    },
+    "veg": true,
+    "protein": "paneer"
+  },
+  {
+    "id": "shami-kebab-veg",
+    "name": "Shami Kebab (Veg)",
+    "category": "kebabs",
+    "group": "Veg Kebab",
+    "prices": {
+      "half": 100,
+      "full": 200
+    },
+    "veg": true,
+    "protein": "veg"
+  },
+  {
+    "id": "paneer-tikka",
+    "name": "Paneer Tikka",
+    "category": "kebabs",
+    "group": "Paneer",
+    "prices": {
+      "price": 250
+    },
+    "veg": true,
+    "protein": "paneer",
+    "note": "Made with 200 g paneer"
+  },
+  {
+    "id": "chilli-paneer-dry",
+    "name": "Chilli Paneer Dry",
+    "category": "kebabs",
+    "group": "Paneer",
+    "prices": {
+      "price": 250
+    },
+    "veg": true,
+    "protein": "paneer",
+    "note": "Made with 200 g paneer"
+  },
+  {
+    "id": "chilli-paneer-thick-gravy",
+    "name": "Chilli Paneer (Thick Gravy)",
+    "category": "kebabs",
+    "group": "Paneer",
+    "prices": {
+      "price": 250
+    },
+    "veg": true,
+    "protein": "paneer",
+    "note": "Made with 200 g paneer"
+  },
+  {
+    "id": "veg-lucknowi-combo-small",
+    "name": "Veg Lucknowi Combo (Small)",
+    "category": "combos",
+    "group": "Veg",
+    "prices": {
+      "price": 220
+    },
+    "veg": true,
+    "protein": "veg",
+    "includes": [
+      "Veg Dum Biryani-Lucknowi (small)",
+      "Veg Shami Kebab (2Nos.)",
+      "1 Gulab Jamun",
+      "1 Jeera Drink (Small)"
+    ],
+    "serves": "1"
+  },
+  {
+    "id": "veg-hyderabadi-combo-small",
+    "name": "Veg Hyderabadi Combo (Small)",
+    "category": "combos",
+    "group": "Veg",
+    "prices": {
+      "price": 220
+    },
+    "veg": true,
+    "protein": "veg",
+    "includes": [
+      "Veg Dum Biryani-Hyderabadi (small)",
+      "Veg Shami Kebab (2Nos.)",
+      "1 Gulab Jamun",
+      "1 Jeera Drink (Small)"
+    ],
+    "serves": "1"
+  },
+  {
+    "id": "veg-soya-combo-small",
+    "name": "Veg Soya Combo (Small)",
+    "category": "combos",
+    "group": "Veg",
+    "prices": {
+      "price": 200
+    },
+    "veg": true,
+    "protein": "soya",
+    "includes": [
+      "Soya Dum Biryani (small)",
+      "Veg Shami Kebab (2Nos.)",
+      "1 Gulab Jamun",
+      "1 Jeera Drink (Small)"
+    ],
+    "serves": "1"
+  },
+  {
+    "id": "veg-lucknowi-combo-large",
+    "name": "Veg Lucknowi Combo (Large)",
+    "category": "combos",
+    "group": "Veg",
+    "prices": {
+      "price": 320
+    },
+    "veg": true,
+    "protein": "veg",
+    "includes": [
+      "Veg Dum Biryani-Lucknowi (Large)",
+      "Veg Shami Kebab (2Nos.)",
+      "2 Gulab Jamun",
+      "1 Soft Drink 400 ml"
+    ],
+    "serves": "1 to 2"
+  },
+  {
+    "id": "veg-hyderabadi-combo-large",
+    "name": "Veg Hyderabadi Combo (Large)",
+    "category": "combos",
+    "group": "Veg",
+    "prices": {
+      "price": 320
+    },
+    "veg": true,
+    "protein": "veg",
+    "includes": [
+      "Veg Dum Biryani-Hyderabadi (Large)",
+      "Veg Shami Kebab (2Nos.)",
+      "2 Gulab Jamun",
+      "1 Soft Drink 400 ml"
+    ],
+    "serves": "1 to 2"
+  },
+  {
+    "id": "veg-soya-combo-large",
+    "name": "Veg Soya Combo (Large)",
+    "category": "combos",
+    "group": "Veg",
+    "prices": {
+      "price": 280
+    },
+    "veg": true,
+    "protein": "soya",
+    "includes": [
+      "Soya Dum Biryani (Large)",
+      "Veg Shami Kebab (2Nos.)",
+      "2 Gulab Jamun",
+      "1 Soft Drink 400 ml"
+    ],
+    "serves": "1 to 2"
+  },
+  {
+    "id": "veg-lucknowi-hyderabadi-combo-small",
+    "name": "Veg Lucknowi + Hyderabadi Combo (Small)",
+    "category": "combos",
+    "group": "Veg",
+    "prices": {
+      "price": 435
+    },
+    "veg": true,
+    "protein": "veg",
+    "includes": [
+      "Veg Dum Biryani-Lucknowi (Small)",
+      "Veg Dum Biryani-Hyderabadi (Small)",
+      "Veg Shami Kebab (3Nos.)",
+      "3 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "2 to 3"
+  },
+  {
+    "id": "veg-lucknowi-soya-combo-small",
+    "name": "Veg Lucknowi + Soya Combo (Small)",
+    "category": "combos",
+    "group": "Veg",
+    "prices": {
+      "price": 415
+    },
+    "veg": true,
+    "protein": "soya",
+    "includes": [
+      "Veg Dum Biryani-Lucknowi (Small)",
+      "Veg Dum Biryani-Soya (Small)",
+      "Veg Shami Kebab (3Nos.)",
+      "3 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "2 to 3"
+  },
+  {
+    "id": "veg-hyderabadi-soya-combo-small",
+    "name": "Veg Hyderabadi + Soya Combo (Small)",
+    "category": "combos",
+    "group": "Veg",
+    "prices": {
+      "price": 415
+    },
+    "veg": true,
+    "protein": "soya",
+    "includes": [
+      "Veg Dum Biryani-Hyderabadi (Small)",
+      "Veg Dum Biryani-Soya (Small)",
+      "Veg Shami Kebab (3Nos.)",
+      "3 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "2 to 3"
+  },
+  {
+    "id": "veg-lucknowi-hyderabadi-combo-large",
+    "name": "Veg Lucknowi + Hyderabadi Combo (Large)",
+    "category": "combos",
+    "group": "Veg",
+    "prices": {
+      "price": 605
+    },
+    "veg": true,
+    "protein": "veg",
+    "includes": [
+      "Veg Dum Biryani-Lucknowi (Large)",
+      "Veg Dum Biryani-Hyderabadi (Large)",
+      "Veg Shami Kebab (3Nos.)",
+      "4 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "3 to 4"
+  },
+  {
+    "id": "veg-lucknowi-soya-combo-large",
+    "name": "Veg Lucknowi + Soya Combo (Large)",
+    "category": "combos",
+    "group": "Veg",
+    "prices": {
+      "price": 565
+    },
+    "veg": true,
+    "protein": "soya",
+    "includes": [
+      "Veg Dum Biryani-Lucknowi (Large)",
+      "Veg Dum Biryani-Soya (Large)",
+      "Veg Shami Kebab (3Nos.)",
+      "4 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "3 to 4"
+  },
+  {
+    "id": "veg-hyderabadi-soya-combo-large",
+    "name": "Veg Hyderabadi + Soya Combo (Large)",
+    "category": "combos",
+    "group": "Veg",
+    "prices": {
+      "price": 565
+    },
+    "veg": true,
+    "protein": "soya",
+    "includes": [
+      "Veg Dum Biryani-Hyderabadi (Large)",
+      "Veg Dum Biryani-Soya (Large)",
+      "Veg Shami Kebab (3Nos.)",
+      "4 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "3 to 4"
+  },
+  {
+    "id": "paneer-lucknowi-combo-small",
+    "name": "Paneer Lucknowi Combo (Small)",
+    "category": "combos",
+    "group": "Veg",
+    "prices": {
+      "price": 240
+    },
+    "veg": true,
+    "protein": "paneer",
+    "includes": [
+      "Paneer Dum Biryani-Lucknowi (small)",
+      "Veg Shami Kebab (2Nos.)",
+      "1 Gulab Jamun",
+      "1 Jeera Drink (Small)"
+    ],
+    "serves": "1"
+  },
+  {
+    "id": "paneer-hyderabadi-combo-small",
+    "name": "Paneer Hyderabadi Combo (Small)",
+    "category": "combos",
+    "group": "Veg",
+    "prices": {
+      "price": 240
+    },
+    "veg": true,
+    "protein": "paneer",
+    "includes": [
+      "Paneer Dum Biryani-Hyderabadi (small)",
+      "Veg Shami Kebab (2Nos.)",
+      "1 Gulab Jamun",
+      "1 Jeera Drink (Small)"
+    ],
+    "serves": "1"
+  },
+  {
+    "id": "paneer-lucknowi-hyderabadi-combo-small",
+    "name": "Paneer Lucknowi + Hyderabadi Combo (Small)",
+    "category": "combos",
+    "group": "Veg",
+    "prices": {
+      "price": 475
+    },
+    "veg": true,
+    "protein": "paneer",
+    "includes": [
+      "Paneer Dum Biryani-Lucknowi (Small)",
+      "Paneer Dum Biryani-Hyderabadi (Small)",
+      "Veg Shami Kebab (3Nos.)",
+      "3 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "2 to 3"
+  },
+  {
+    "id": "paneer-lucknowi-hyderabadi-combo-large",
+    "name": "Paneer Lucknowi + Hyderabadi Combo (Large)",
+    "category": "combos",
+    "group": "Veg",
+    "prices": {
+      "price": 665
+    },
+    "veg": true,
+    "protein": "paneer",
+    "includes": [
+      "Paneer Dum Biryani-Lucknowi (Large)",
+      "Paneer Dum Biryani-Hyderabadi (Large)",
+      "Veg Shami Kebab (3Nos.)",
+      "4 Gulab Jamun",
+      "2 Soft Drink 400 ml"
+    ],
+    "serves": "3 to 4"
+  },
+  {
+    "id": "water-bottle-500-ml",
+    "name": "Water Bottle 500 ml",
+    "category": "drinks",
+    "group": "Cold",
+    "prices": {
+      "price": 10
+    }
+  },
+  {
+    "id": "water-bottle-1000-ml",
+    "name": "Water Bottle 1000 ml",
+    "category": "drinks",
+    "group": "Cold",
+    "prices": {
+      "price": 20
+    }
+  },
+  {
+    "id": "pepsi",
+    "name": "Pepsi",
+    "category": "drinks",
+    "group": "Cold",
+    "prices": {
+      "price": 20
+    }
+  },
+  {
+    "id": "pepsi-zero-sugar",
+    "name": "Pepsi Zero Sugar",
+    "category": "drinks",
+    "group": "Cold",
+    "prices": {
+      "price": 20
+    }
+  },
+  {
+    "id": "mountain-dew",
+    "name": "Mountain Dew",
+    "category": "drinks",
+    "group": "Cold",
+    "prices": {
+      "price": 20
+    }
+  },
+  {
+    "id": "mirinda",
+    "name": "Mirinda",
+    "category": "drinks",
+    "group": "Cold",
+    "prices": {
+      "price": 20
+    }
+  },
+  {
+    "id": "7-up",
+    "name": "7Up",
+    "category": "drinks",
+    "group": "Cold",
+    "prices": {
+      "price": 20
+    }
+  },
+  {
+    "id": "nimbooz",
+    "name": "Nimbooz",
+    "category": "drinks",
+    "group": "Cold",
+    "prices": {
+      "price": 20
+    }
+  },
+  {
+    "id": "coke",
+    "name": "Coke",
+    "category": "drinks",
+    "group": "Cold",
+    "prices": {
+      "price": 20
+    }
+  },
+  {
+    "id": "diet-coke",
+    "name": "Diet Coke",
+    "category": "drinks",
+    "group": "Cold",
+    "prices": {
+      "price": 40
+    }
+  },
+  {
+    "id": "thums-up",
+    "name": "Thums Up",
+    "category": "drinks",
+    "group": "Cold",
+    "prices": {
+      "price": 20
+    }
+  },
+  {
+    "id": "sprite-small",
+    "name": "Sprite Small",
+    "category": "drinks",
+    "group": "Cold",
+    "prices": {
+      "price": 20
+    }
+  },
+  {
+    "id": "sprite-big",
+    "name": "Sprite Big",
+    "category": "drinks",
+    "group": "Cold",
+    "prices": {
+      "price": 40
+    }
+  },
+  {
+    "id": "chaas",
+    "name": "Chaas",
+    "category": "drinks",
+    "group": "Cold",
+    "prices": {
+      "price": 20
+    }
+  },
+  {
+    "id": "lassi",
+    "name": "Lassi",
+    "category": "drinks",
+    "group": "Cold",
+    "prices": {
+      "price": 25
+    }
+  },
+  {
+    "id": "limboo-pani",
+    "name": "Limboo Pani",
+    "category": "drinks",
+    "group": "Cold",
+    "prices": {
+      "price": 15
+    }
+  },
+  {
+    "id": "tea-small",
+    "name": "Tea – Small",
+    "category": "drinks",
+    "group": "Hot",
+    "prices": {
+      "price": 10
+    }
+  },
+  {
+    "id": "tea-small-sweetener",
+    "name": "Tea – Small (Sweetener)",
+    "category": "drinks",
+    "group": "Hot",
+    "prices": {
+      "price": 15
+    }
+  },
+  {
+    "id": "tea-big",
+    "name": "Tea Big",
+    "category": "drinks",
+    "group": "Hot",
+    "prices": {
+      "price": 20
+    }
+  },
+  {
+    "id": "tea-big-sweetener",
+    "name": "Tea -Big (Sweetener)",
+    "category": "drinks",
+    "group": "Hot",
+    "prices": {
+      "price": 25
+    }
+  },
+  {
+    "id": "coffee",
+    "name": "Coffee",
+    "category": "drinks",
+    "group": "Hot",
+    "prices": {
+      "price": 25
+    }
+  },
+  {
+    "id": "coffee-big-sweetener",
+    "name": "Coffee -Big (Sweetener)",
+    "category": "drinks",
+    "group": "Hot",
+    "prices": {
+      "price": 30
+    }
+  }
+]
